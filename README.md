@@ -26,10 +26,11 @@ YouTube dataset
 ✅ **Top Performers Analysis** – Top 10 channels ranked by subscribers & views  
 ✅ **Category Insights** – Avg. subscribers, video count, and earnings by category  
 ✅ **Country-Level Trends** – Top countries by channel count & growth potential  
-✅ **Correlation Studies**:  
+✅ **Correlation Studies**: 
    - Subscribers ↔ Views → **0.75** (moderate-good correlation)  
    - Subscribers ↔ Population → **0.35** (moderate correlation)  
-   - Monthly Subs Growth ↔ Unemployment Rate → **0.21** (weak correlation)  
+   - Monthly Subs Growth ↔ Unemployment Rate → **0.21** (weak correlation)
+
 ✅ **Seasonal Trends** – High upload months: **June, Aug, Oct, Nov**; Low: **Dec, May**  
 ✅ **Outlier Detection** – Channels like **T-Series** & **MrBeast** dominate earnings & growth  
 ✅ **Geospatial Analysis** – Channel density maps by latitude & longitude  
